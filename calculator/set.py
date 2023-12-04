@@ -4,6 +4,9 @@ print(s)
 s1 = {2, 4, 6}
 s2 = {2, 3,5}
 
+d = {True,1, "test", 45, True}
+print(d)
+
 print(s1.union(s2))
 
 s1.update(s2)
