@@ -1,7 +1,7 @@
-import math 
-import math as m 
-from math import floor
-from mizan import mizan as z, m as y
+import math # import all from math, we can use math.something like that
+import math as m # renamed as m
+from math import floor # import specific method
+from mizan import mizan as z, m as y # rename specific methods too
 
 from math import sqrt as s, pi as p # as to rename methods
 
